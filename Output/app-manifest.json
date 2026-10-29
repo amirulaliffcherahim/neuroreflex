@@ -1,0 +1,27 @@
+{
+    "manifest_version":  1,
+    "type":  [
+                 "activity"
+             ],
+    "name":  "NeuroReflex",
+    "icon":  "icon.png",
+    "binary":  "NeuroReflex_1.0.0.uapp",
+    "appVersion":  "1.0.0",
+    "minKernelVersion":  "1.4.0",
+    "requiredHardware":  [
+
+                         ],
+    "id":  "CF435D255DF26B52",
+    "description":  "A 3-minute PVT-B focus check that tells you how to train today: PRIMED, NORMAL or DRAINED, judged against your own normal. Keeps a 14-test trend.",
+    "supportsLaps":  false,
+    "supportsDistance":  false,
+    "supportsTrack":  false,
+    "supportsHeartbeat":  false,
+    "supportsElevation":  false,
+    "supportsStep":  false,
+    "supportsSpeed":  "none",
+    "stravaExport":  false,
+    "customMeasures":  [
+
+                       ]
+}

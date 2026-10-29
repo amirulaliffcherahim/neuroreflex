@@ -1,0 +1,15 @@
+# build output
+**/build/
+Software/Output/
+Output/*.map
+Output/*.zip
+# test / screenshot scratch
+Tests/Sim/shots*/
+Tests/Sim/look*/
+Tests/Sim/look*.png
+Tests/Sim/mock/
+__pycache__/
+*.pyc
+# UNA's product photo: fetched by Tests/Sim/watch/fetch_watch.py, not redistributed
+Tests/Sim/watch/front.png
+Tests/Sim/watch/*.rgba
